@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/glowing-telegram/static/css/main.52e4e3b1.css",
-    "main.js": "/glowing-telegram/static/js/main.a4237491.js",
-    "static/js/787.d8622dc8.chunk.js": "/glowing-telegram/static/js/787.d8622dc8.chunk.js",
-    "index.html": "/glowing-telegram/index.html",
-    "main.52e4e3b1.css.map": "/glowing-telegram/static/css/main.52e4e3b1.css.map",
-    "main.a4237491.js.map": "/glowing-telegram/static/js/main.a4237491.js.map",
-    "787.d8622dc8.chunk.js.map": "/glowing-telegram/static/js/787.d8622dc8.chunk.js.map"
+    "main.css": "/JohnnyRacer/react-ghpagesdeploy/static/css/main.52e4e3b1.css",
+    "main.js": "/JohnnyRacer/react-ghpagesdeploy/static/js/main.515bbcf2.js",
+    "static/js/787.fed4702a.chunk.js": "/JohnnyRacer/react-ghpagesdeploy/static/js/787.fed4702a.chunk.js",
+    "index.html": "/JohnnyRacer/react-ghpagesdeploy/index.html",
+    "main.52e4e3b1.css.map": "/JohnnyRacer/react-ghpagesdeploy/static/css/main.52e4e3b1.css.map",
+    "main.515bbcf2.js.map": "/JohnnyRacer/react-ghpagesdeploy/static/js/main.515bbcf2.js.map",
+    "787.fed4702a.chunk.js.map": "/JohnnyRacer/react-ghpagesdeploy/static/js/787.fed4702a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52e4e3b1.css",
-    "static/js/main.a4237491.js"
+    "static/js/main.515bbcf2.js"
   ]
 }
